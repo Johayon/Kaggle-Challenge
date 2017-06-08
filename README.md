@@ -1,3 +1,3 @@
-# Kaggle-Challenge
+# Sandbox-Challenge
 
-Repository containing the source code of differents Kaggle challenge.
+Repository containing the source code of differents challenge.
